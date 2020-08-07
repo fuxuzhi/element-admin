@@ -7,8 +7,12 @@
 # get code
 pull all code
 
+# install cnpm 
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+
 # install dependencies
 npm install or yarn or cnpm insall
+
 
 # start project
 npm run dev
